@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:rxdart/rxdart.dart';
 
 class XOgame extends StatefulWidget {
   const XOgame({super.key});
